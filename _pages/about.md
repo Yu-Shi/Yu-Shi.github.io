@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate from the Department of Computer Science and Technology at Tsinghua University. I am going to start my Ph.D. at Tsinghua University in the fall of 2021,  supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). My research interests lie in Information Retrieval and Conversational Search.
+I am a Ph.D. student from the Department of Computer Science and Technology at Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html) and affiliated with the [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/). My research interests lie within the intersection of Natural Language Processing and Information Retrieval.
+
+I received my bachelor degree from Tsinghua University in Jun. 2021.
 
 Preprints and Publications
 ======
