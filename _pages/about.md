@@ -18,7 +18,7 @@ Preprints and Publications
 
 2022
 ------
-Xiaomeng Hu\*, **Shi Yu**\*, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu, Ge Yu. P^3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning. _The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)._ Paper and Code Comming Soon.
+Xiaomeng Hu\*, **Shi Yu**\*, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu, Ge Yu. P<sup>3</sup> Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning. _The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)._ Paper and Code Comming Soon.
 
 2021
 ------
