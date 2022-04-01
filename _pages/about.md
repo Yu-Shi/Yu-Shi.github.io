@@ -16,6 +16,10 @@ Preprints and Publications
 ======
 \* indicates equal contribution.
 
+2022
+------
+Xiaomeng Hu\*, **Shi Yu**\*, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu, Ge Yu. P^3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning. _The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)._ Paper and Code Comming Soon.
+
 2021
 ------
 **Shi Yu**\*, Zhenghao Liu\*, Chenyan Xiong, Tao Feng, Zhiyuan Liu. Few-Shot Conversational Dense Retrieval. _The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)._ [![pdf](https://img.shields.io/badge/pdf-arxiv-green)](https://arxiv.org/pdf/2105.04166.pdf) [![GitHub](https://img.shields.io/github/stars/thunlp/ConvDR?label=Github)](https://github.com/thunlp/ConvDR)
