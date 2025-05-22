@@ -26,6 +26,8 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=xc
 
 2025
 ------
+**Shi Yu**, Zhiyuan Liu, Chenyan Xiong. Craw4LLM: Efficient Web Crawling for LLM Pretraining. _The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) (Findings)._ [![pdf](https://img.shields.io/badge/pdf-arxiv-green)](https://arxiv.org/pdf/2502.13347) [![GitHub](https://img.shields.io/github/stars/cxcscmu/Craw4LLM?label=Github)](https://github.com/cxcscmu/Craw4LLM)
+
 **Shi Yu**\*, Chaoyue Tang\*, Bokai Xu\*, Junbo Cui\*, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents. _The Thirteenth International Conference on Learning Representations (ICLR 2025)._ [![pdf](https://img.shields.io/badge/pdf-arxiv-green)](https://arxiv.org/pdf/2410.10594) [![GitHub](https://img.shields.io/github/stars/OpenBMB/VisRAG?label=Github)](https://github.com/OpenBMB/VisRAG) [![slides](https://img.shields.io/badge/slides-google_docs-blue)](https://docs.google.com/presentation/d/1Vah_hfw-WdKBlCkg5NZhxAXzu3ugUBju-SdzKD_YPdA/edit?usp=sharing)
 
 
